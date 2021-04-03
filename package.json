@@ -1,6 +1,4 @@
 {
- 
- 
   "name": "e-book",
   "version": "1.0.0",
   "description": "",
@@ -22,4 +20,5 @@
   "devDependencies": {
     "gitbook-cli": "^2.3.2"
   }
+
 }
